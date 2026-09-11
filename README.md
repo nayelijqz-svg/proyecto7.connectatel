@@ -1,12 +1,12 @@
-# 📊 Análisis de uso de servicios móviles - ConnectaTel
+# Análisis de uso de servicios móviles - ConnectaTel
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 
 Este proyecto analiza el comportamiento de los clientes de **ConnectaTel**, una empresa de telecomunicaciones con operaciones en México y Colombia.
 
 El análisis busca comprender cómo los usuarios utilizan los servicios móviles, principalmente llamadas y mensajes, identificar comportamientos atípicos y detectar segmentos de clientes con diferentes necesidades.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Analizar los patrones de uso de los clientes de ConnectaTel para:
 
@@ -16,7 +16,7 @@ Analizar los patrones de uso de los clientes de ConnectaTel para:
 - Identificar segmentos de clientes según sus características y nivel de uso.
 - Generar recomendaciones que puedan ayudar a mejorar la oferta comercial.
 
-## 📁 Datasets utilizados
+##  Datasets utilizados
 
 El proyecto utiliza tres archivos CSV:
 
@@ -24,7 +24,7 @@ El proyecto utiliza tres archivos CSV:
 - `users_latam.csv`: información de los clientes, incluyendo edad, ciudad, fecha de registro y plan contratado.
 - `usage.csv`: registros del uso de los servicios, incluyendo llamadas, duración de llamadas y mensajes.
 
-## 🔎 Etapas del análisis
+##  Etapas del análisis
 
 El proyecto se desarrolló en las siguientes etapas:
 
@@ -39,7 +39,7 @@ El proyecto se desarrolló en las siguientes etapas:
 9. Segmentación de clientes según edad y nivel de consumo.
 10. Elaboración de conclusiones y recomendaciones para ConnectaTel.
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 El análisis se encuentra desarrollado en un **Jupyter Notebook (`.ipynb`)**.
 
@@ -52,7 +52,7 @@ Una forma sencilla de ejecutarlo es utilizando **Google Colab**:
 5. Subir los archivos CSV utilizados en el proyecto.
 6. Ejecutar las celdas en orden desde el inicio.
 
-## 🔄 Guía de reproducción
+##  Guía de reproducción
 
 Para reproducir correctamente el análisis:
 
@@ -62,7 +62,7 @@ Para reproducir correctamente el análisis:
 4. Ejecutar las celdas en el orden establecido.
 5. Revisar las visualizaciones, resultados y conclusiones generadas.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python
 - Pandas
@@ -71,7 +71,7 @@ Para reproducir correctamente el análisis:
 - Seaborn
 - Jupyter Notebook / Google Colab
 
-## 📈 Principales hallazgos
+##  Principales hallazgos
 
 El análisis permitió observar que el **nivel de consumo es un factor más útil que la edad para diferenciar a los clientes**.
 
